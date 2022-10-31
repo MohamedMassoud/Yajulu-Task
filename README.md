@@ -11,8 +11,6 @@ Preview Image:
 ![](preview.png)
 
 
-Build is in Assets/Build
-
 
 **How to Play:**
 
