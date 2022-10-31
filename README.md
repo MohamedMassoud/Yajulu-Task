@@ -2,8 +2,11 @@
  Yajulu Task For The Win
 **Yajulu Task**
 
-Preview Video:
-Preview Image:
+Preview Video: [![Preview Video](https://drive.google.com/file/d/1fk1SyqAxlaVgHxOuIfIoq8jQYhPyYPrc/view?usp=sharing)](https://drive.google.com/file/d/1HAbimHyvOq5dFE4UPJgvAZYVmgKd6yZw/view?usp=sharing)
+
+
+
+Preview Image: ![Preview Image](https://drive.google.com/file/d/1fk1SyqAxlaVgHxOuIfIoq8jQYhPyYPrc/view?usp=sharing)
 
 
 Build is in Assets/Build
