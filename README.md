@@ -3,12 +3,12 @@
 **Yajulu Task**
 
 Preview Video: 
-[![Preview Video](/Yajulu - Image Preview.png)](https://drive.google.com/file/d/1HAbimHyvOq5dFE4UPJgvAZYVmgKd6yZw/view?usp=sharing)
+[![Preview Video](Yajulu - Image Preview.png)](https://drive.google.com/file/d/1HAbimHyvOq5dFE4UPJgvAZYVmgKd6yZw/view?usp=sharing)
 
 
 
 Preview Image:
-![Preview Image](/Yajulu - Image Preview.png)
+![](Yajulu - Image Preview.png)
 
 
 Build is in Assets/Build
