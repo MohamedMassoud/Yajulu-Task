@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557eb0d41aa0f4744aebee82ce17baa9, type: 3}
+  m_Name: Frost Rock
+  m_EditorClassIdentifier: 
+  rockPrefab: {fileID: 8544270955987827695, guid: dcd312b4d15443640842c518df60232e,
+    type: 3}
+  shatteredRockPrefab: {fileID: 5781290970027287603, guid: 905e6a1f629b031478c350722eada366,
+    type: 3}
+  rockType: 2
+  rockSpeed: 90
+  rockDmg: 20
+  rockTemp: -50
+  rockRotationSpeed: 100

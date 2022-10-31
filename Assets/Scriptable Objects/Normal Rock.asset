@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557eb0d41aa0f4744aebee82ce17baa9, type: 3}
+  m_Name: Normal Rock
+  m_EditorClassIdentifier: 
+  rockPrefab: {fileID: 8544270955987827695, guid: c3a64455b61a2b942babb3015f0c58fc,
+    type: 3}
+  shatteredRockPrefab: {fileID: 5781290970027287603, guid: dfd88eec77b00d84b84e0734928fbae9,
+    type: 3}
+  rockType: 0
+  rockSpeed: 120
+  rockDmg: 10
+  rockTemp: 0
+  rockRotationSpeed: 100
