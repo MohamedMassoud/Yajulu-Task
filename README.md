@@ -3,7 +3,7 @@
 **Yajulu Task**
 
 Preview Video: 
-[![Preview Video](preview.png)](https://drive.google.com/file/d/1HAbimHyvOq5dFE4UPJgvAZYVmgKd6yZw/view?usp=sharing)
+[![Preview Video](previewvideoimage.png)](https://drive.google.com/file/d/1HAbimHyvOq5dFE4UPJgvAZYVmgKd6yZw/view?usp=sharing)
 
 
 
