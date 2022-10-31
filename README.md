@@ -43,7 +43,7 @@ Build is in Assets/Build
 3-	Dynamic Pool
 
 
-Extras handmade:
+**Extras handmade:**
 
 1-	Skateboard animation using Unity animation tool.
 
